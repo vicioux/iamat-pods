@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Philipp Kyeck' => 'philipp@beta-interactive.de' }
   s.source           = { :git => 'https://github.com/iamat/socket.IO-objc', :tag => '0.5.2' }
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '8.0'
 
   s.source_files = '*.{h,m}'
 
