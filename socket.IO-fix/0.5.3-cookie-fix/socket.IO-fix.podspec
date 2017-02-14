@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'socket.IO-fix'
-  s.version          = '0.5.2-cookie-fix'
+  s.version          = '0.5.3-cookie-fix'
   s.summary          = 'socket.io v0.7.2+ for iOS devices.'
 
 # This description is used to generate tags and improve search results.

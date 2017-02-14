@@ -33,6 +33,6 @@ Pod::Spec.new do |s|
   s.source_files = '**/*.{swift}'
   
   s.dependency 'SwiftyJSON'
-  s.dependency 'socket.IO-fix', '0.5.3-cookie-fix'
+  s.dependency 'socket.IO-fix', '0.5.2-cookie-fix'
   s.dependency 'Alamofire'
 end
