@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://bitbucket.org/iamat/globant-iamat-ios-sdk.git', :tag => s.version.to_s }
 
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = '**/*.{swift}'
   
