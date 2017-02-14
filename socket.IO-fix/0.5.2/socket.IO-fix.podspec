@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
 
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Philipp Kyeck' => 'philipp@beta-interactive.de' }
-  s.source           = { :git => 'https://github.com/iamat/socket.IO-objc' }
+  s.source           = { :git => 'https://github.com/iamat/socket.IO-objc', :tag => '0.5.2' }
 
   s.ios.deployment_target = '9.0'
 
